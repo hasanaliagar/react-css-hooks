@@ -1,10 +1,12 @@
 {
   "name": "react-css-hooks",
-  "version": "1.0.0",
-  "description": "A React hook for handling CSS variables.",
+  "version": "1.0.2",
+  "description": "This hook works like useState but uses CSS variables for storing.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": [],
+  "files": [
+    "dist/*"
+  ],
   "keywords": [
     "react-css-hooks",
     "react hooks",
