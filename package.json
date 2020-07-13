@@ -1,0 +1,17 @@
+{
+  "name": "react-css-hooks",
+  "version": "0.0.1",
+  "description": "A React hook for handling CSS variables.",
+  "main": "index.js",
+  "files": [],
+  "keywords": [
+    "react-css-hooks",
+    "react hooks",
+    "css variables"
+  ],
+  "repository": "git@github.com:hasanaliagar/react-css-hooks.git",
+  "author": "Hasan Ali AGAR <info@hasanaliagar.com>",
+  "license": "MIT",
+  "bugs": "https://github.com/hasanaliagar/react-css-hooks/issues",
+  "homepage": "https://hasanaliagar.github.io/react-css-hooks"
+}
