@@ -1,6 +1,6 @@
 {
   "name": "react-css-hooks",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This hook works like useState but uses CSS variables for storing.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
