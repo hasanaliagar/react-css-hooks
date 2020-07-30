@@ -1,7 +1,7 @@
 {
   "name": "react-css-hooks",
   "description": "A few hooks that allow you to control more powerful CSS in your React applications",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "license": "MIT",
   "repository": "https://github.com/hasanaliagar/react-css-hooks",
   "homepage": "https://hasanaliagar.github.io/react-css-hooks",

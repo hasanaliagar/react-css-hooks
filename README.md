@@ -46,23 +46,22 @@ console.log(breakpoint);
 ### Usage (useSelectorState)
 
 ```js
-import React from 'react
+import React from "react";
 import { useSelectorState } from "react-css-hooks";
 
 const cssVars = {
-  color: '--color', // The value of the variable comes from CSS
+  color: "--color", // The value of the variable comes from CSS
   bg: {
-    key: '--background-color',
-    value: 'red'
-  }
-}
+    key: "--background-color",
+    value: "red",
+  },
+};
 
 const {
   bg: [bg, setBg],
-  color: [color, setColor]
-} = useSelectorState(cssVars)
+  color: [color, setColor],
+} = useSelectorState(cssVars);
 
-setBg('blue')
-setColor('white')
-
+setBg("blue");
+setColor("white");
 ```
